@@ -14,6 +14,6 @@
         <module>bookstore-user</module>
         <module>bookstore-product</module>
         <module>bookstore-cart</module>
+        <module>bookstore-order</module>
     </modules>
-
 </project>
